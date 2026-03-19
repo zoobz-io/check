@@ -1,13 +1,13 @@
 # check
 
-[![CI Status](https://github.com/zoobzio/check/workflows/CI/badge.svg)](https://github.com/zoobzio/check/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/zoobzio/check/graph/badge.svg?branch=main)](https://codecov.io/gh/zoobzio/check)
-[![Go Report Card](https://goreportcard.com/badge/github.com/zoobzio/check)](https://goreportcard.com/report/github.com/zoobzio/check)
-[![CodeQL](https://github.com/zoobzio/check/workflows/CodeQL/badge.svg)](https://github.com/zoobzio/check/security/code-scanning)
-[![Go Reference](https://pkg.go.dev/badge/github.com/zoobzio/check.svg)](https://pkg.go.dev/github.com/zoobzio/check)
-[![License](https://img.shields.io/github/license/zoobzio/check)](LICENSE)
-[![Go Version](https://img.shields.io/github/go-mod/go-version/zoobzio/check)](go.mod)
-[![Release](https://img.shields.io/github/v/release/zoobzio/check)](https://github.com/zoobzio/check/releases)
+[![CI Status](https://github.com/zoobz-io/check/workflows/CI/badge.svg)](https://github.com/zoobz-io/check/actions/workflows/ci.yml)
+[![codecov](https://codecov.io/gh/zoobz-io/check/graph/badge.svg?branch=main)](https://codecov.io/gh/zoobz-io/check)
+[![Go Report Card](https://goreportcard.com/badge/github.com/zoobz-io/check)](https://goreportcard.com/report/github.com/zoobz-io/check)
+[![CodeQL](https://github.com/zoobz-io/check/workflows/CodeQL/badge.svg)](https://github.com/zoobz-io/check/security/code-scanning)
+[![Go Reference](https://pkg.go.dev/badge/github.com/zoobz-io/check.svg)](https://pkg.go.dev/github.com/zoobz-io/check)
+[![License](https://img.shields.io/github/license/zoobz-io/check)](LICENSE)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/zoobz-io/check)](go.mod)
+[![Release](https://img.shields.io/github/v/release/zoobz-io/check)](https://github.com/zoobz-io/check/releases)
 
 Fluent validation for Go with struct tag verification.
 
@@ -58,7 +58,7 @@ Validation logic lives where you can see it, test it, and refactor it.
 ## Install
 
 ```bash
-go get github.com/zoobzio/check
+go get github.com/zoobz-io/check
 ```
 
 Requires Go 1.24+.
@@ -207,7 +207,7 @@ The compiler checks your validation logic. Your IDE can navigate to it. Your tes
 
 ## Documentation
 
-- [pkg.go.dev reference](https://pkg.go.dev/github.com/zoobzio/check)
+- [pkg.go.dev reference](https://pkg.go.dev/github.com/zoobz-io/check)
 
 ## Contributing
 

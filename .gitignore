@@ -8,8 +8,7 @@
 # Test files
 *.test
 *.out
-coverage.out
-coverage/
+coverage.*
 
 # IDE files
 .idea/
@@ -26,5 +25,9 @@ Thumbs.db
 dist/
 vendor/
 
-# Debug
-__debug_bin*
+# Profiling
+*.prof
+*.pprof
+
+# Claude
+.claude/

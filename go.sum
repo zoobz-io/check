@@ -1,4 +1,4 @@
-github.com/zoobzio/sentinel v1.0.2 h1:hTs5Ke2Vi0VgOkoHSJF9G3BYnxTQjMbvOH+qbbQLaoY=
-github.com/zoobzio/sentinel v1.0.2/go.mod h1:gtsD0AYlTEI8ajpEQ3azb7BDZicdsESOB1dJpQqgDKc=
+github.com/zoobz-io/sentinel v1.0.4 h1:nGn4zzwwjmd30tJ2nf75xgvkw47lrD+0dDYFMCg1s1k=
+github.com/zoobz-io/sentinel v1.0.4/go.mod h1:/Bao7Ro0XVh5oxDZBjpFaNuKosXY3wT5ccjtDnC4lRs=
 golang.org/x/exp v0.0.0-20260112195511-716be5621a96 h1:Z/6YuSHTLOHfNFdb8zVZomZr7cqNgTJvA8+Qz75D8gU=
 golang.org/x/exp v0.0.0-20260112195511-716be5621a96/go.mod h1:nzimsREAkjBCIEFtHiYkrJyT+2uy9YZJB7H1k68CXZU=
