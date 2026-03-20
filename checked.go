@@ -4,7 +4,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/zoobzio/sentinel"
+	"github.com/zoobz-io/sentinel"
 )
 
 // Check validates the given validations and verifies that all fields with validate tags were checked.
